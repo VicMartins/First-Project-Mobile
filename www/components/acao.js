@@ -1,4 +1,7 @@
 // This is a JavaScript file
+
+//funçao da soma de dois valores mais o resultado
+
 $(document).on("click","#Somar",function(){
   var valor1 = $("#valor1").val();
   var valor2 = $("#valor2").val();

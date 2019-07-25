@@ -1,7 +1,9 @@
 /**/
+.titulo{
+ color:rgb(87, 12, 87);
+}
 
 .botao{
-  
-  background-color:blueviolet;
-
+  background-color:rgb(87, 12, 87);
+  color: white;
 }
